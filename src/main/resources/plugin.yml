@@ -1,0 +1,6 @@
+name: ListPractice
+version: '${version}'
+main: listpractice.listpractice.ListPractice
+api-version: 1.19
+commands:
+  mlist:
